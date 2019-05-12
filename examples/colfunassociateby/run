@@ -1,0 +1,1 @@
+kotlin -classpath ./ColFunAssociateBy.jar ColFunAssociateByKt

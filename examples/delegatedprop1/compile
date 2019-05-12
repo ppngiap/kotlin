@@ -1,0 +1,1 @@
+kotlinc ./DelegatedProp1.kt -d DelegatedProp1.jar

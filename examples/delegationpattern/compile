@@ -1,0 +1,1 @@
+kotlinc ./DelegationPattern.kt -d DelegationPattern.jar

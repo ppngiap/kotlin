@@ -1,0 +1,1 @@
+kotlinc ./ScopeFunAlso.kt -d ScopeFunAlso.jar

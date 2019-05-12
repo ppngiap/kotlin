@@ -1,0 +1,1 @@
+kotlin -classpath ./ScopeFunRun.jar ScopeFunRunKt

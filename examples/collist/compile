@@ -1,0 +1,2 @@
+#kotlinc ./ColList.kt -include-runtime -d ColList.jar
+kotlinc ./ColList.kt -d ColList.jar

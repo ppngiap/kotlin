@@ -1,0 +1,1 @@
+kotlinc ./ScSealed.kt -include-runtime -d ScSealed.jar

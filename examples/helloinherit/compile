@@ -1,0 +1,1 @@
+kotlinc ./HelloInherit.kt -include-runtime -d HelloInherit.jar

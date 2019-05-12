@@ -1,0 +1,1 @@
+kotlinc ./FunExtension.kt -include-runtime -d FunExtension.jar

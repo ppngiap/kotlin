@@ -1,0 +1,1 @@
+kotlin -classpath ./ScopeFunAlso.jar ScopeFunAlsoKt

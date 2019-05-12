@@ -1,0 +1,1 @@
+kotlin -classpath ./ColFunAny.jar ColFunAnyKt

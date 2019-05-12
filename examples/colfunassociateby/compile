@@ -1,0 +1,1 @@
+kotlinc ./ColFunAssociateBy.kt -d ColFunAssociateBy.jar

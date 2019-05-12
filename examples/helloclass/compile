@@ -1,0 +1,1 @@
+kotlinc ./HelloClass.kt -include-runtime -d HelloClass.jar

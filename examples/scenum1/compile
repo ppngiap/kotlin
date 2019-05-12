@@ -1,0 +1,1 @@
+kotlinc ./ScEnum1.kt -include-runtime -d ScEnum1.jar

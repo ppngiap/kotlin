@@ -1,0 +1,1 @@
+kotlinc ./HelloNull.kt -include-runtime -d HelloNull.jar

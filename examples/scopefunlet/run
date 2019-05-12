@@ -1,0 +1,1 @@
+kotlin -classpath ./ScopeFunLet.jar ScopeFunLetKt

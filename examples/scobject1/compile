@@ -1,0 +1,1 @@
+kotlinc ./ScObject1.kt -include-runtime -d ScObject1.jar

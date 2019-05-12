@@ -1,0 +1,1 @@
+kotlin -classpath ./DelegatedProp1.jar DelegatedProp1Kt

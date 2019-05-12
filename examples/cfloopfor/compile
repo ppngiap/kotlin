@@ -1,0 +1,1 @@
+kotlinc ./CfLoopFor.kt -include-runtime -d CfLoopFor.jar

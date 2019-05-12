@@ -1,0 +1,1 @@
+kotlin -classpath ./ColFunFlatMap.jar ColFunFlatMapKt

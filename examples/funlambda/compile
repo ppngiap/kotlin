@@ -1,0 +1,1 @@
+kotlinc ./FunLambda.kt -include-runtime -d FunLambda.jar

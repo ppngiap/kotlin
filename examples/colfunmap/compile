@@ -1,0 +1,1 @@
+kotlinc ./ColFunMap.kt -d ColFunMap.jar

@@ -1,0 +1,1 @@
+kotlinc ./HelloGeneric.kt -include-runtime -d HelloGeneric.jar

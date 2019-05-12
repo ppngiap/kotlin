@@ -1,0 +1,1 @@
+kotlinc ./FunHighOrder2.kt -include-runtime -d FunHighOrder2.jar

@@ -1,0 +1,1 @@
+kotlinc ./ColFunPartition.kt -d ColFunPartition.jar

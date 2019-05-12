@@ -1,0 +1,1 @@
+kotlinc ./ColFunFindLast.kt -d ColFunFindLast.jar

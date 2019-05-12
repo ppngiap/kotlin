@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: kotlin-runner
+Implementation-Version: 1.3.31-release-197
+Class-Path: kotlin-stdlib.jar
+Main-Class: org.jetbrains.kotlin.runner.Main
+Implementation-Vendor: JetBrains
+

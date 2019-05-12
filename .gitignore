@@ -1,0 +1,6 @@
+
+*.class
+
+examples/tools/\.idea/
+
+examples/scdata/META-INF/

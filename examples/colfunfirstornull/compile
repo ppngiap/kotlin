@@ -1,0 +1,1 @@
+kotlinc ./ColFunFirstOrNull.kt -d ColFunFirstOrNull.jar

@@ -1,0 +1,1 @@
+kotlinc ./HelloVarargs.kt -include-runtime -d HelloVarargs.jar
